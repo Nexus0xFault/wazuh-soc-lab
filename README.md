@@ -43,8 +43,6 @@ See `architecture.png` for full diagram.
 ## ⚔️ Simulated Attacks
 
 - SSH brute-force attack
-- Network reconnaissance (Nmap scanning)
-- Suspicious login attempts
 
 ---
 
